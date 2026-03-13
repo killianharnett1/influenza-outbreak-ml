@@ -31,4 +31,3 @@ Models are evaluated using:
 
 Recall is prioritised because correctly detecting outbreak periods is critical for public health surveillance.
 
-## Repository Structure
